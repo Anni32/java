@@ -1,3 +1,4 @@
+// Note: could have used Math.max and compared string lengths but wanted to walk through the logic for experience.
 class Solution {
     public String mergeAlternately(String word1, String word2) {
     int theLength = 0;
