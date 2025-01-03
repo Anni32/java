@@ -19,3 +19,6 @@ class Solution {
         return -1; //else return -1
     }
 }
+
+// alternatively a simple solution that I found in the discussion that takes advantage of the built in libraries was my favorite
+// a simple one liner: return haystack.indexOf(needle); immediate does the job!
